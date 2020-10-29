@@ -5,8 +5,25 @@
 - 🔨 I’m currently working on a responsive portfolio site for a photographer!
 - 💡 I’m currently learning front-end JavaScript and DevOps technologies! 
 - 🔎 Looking to contribute on an open source project!
-- 📫 Reach out to me on LinkedIn!
+- 📫 Reach out to me on LinkedIn! [<img alt="Steven Bore LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 - ⚡ Fun fact about me: Grade 5 violin and I play cricket!
+<br/>
+<br/>
+
+### Languages & IDE's:
+- [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />] Visual Studio Code<br/>
+- 
+
+
+
+<details>
+  <summary> </summary>
+
+</details>
 
 ### Currently listening to
 [![Spotify](https://novatorem.smtbore.vercel.app/api/spotify)](https://open.spotify.com/user/steven83stamford)
+
+
+
+[linkedin]: https://www.linkedin.com/in/stevenbore/

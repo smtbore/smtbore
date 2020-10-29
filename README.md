@@ -11,10 +11,6 @@
 ## Tools & Technologies
 <details>
   <summary> Expand... </summary>
-<<<<<<< HEAD
-=======
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> Visual Studio Code <br />
->>>>>>> 66b5974bdcf0bcb38d553e1238f33395515b6081
 
   <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> Visual Studio Code
 

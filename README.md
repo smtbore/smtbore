@@ -9,7 +9,8 @@
 - ⚡ Fun fact about me: Grade 5 violin and I play cricket!
 
 <details>
-  <summary>Languages & IDE's </summary>
+  <summary>Languages & IDE's: </summary>
+  <br />
 - <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> Visual Studio Code
 
 - <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> HTML5
@@ -27,6 +28,14 @@
 - <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> Powershell + Bash scripting
 
 - <img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" /> AWS
+
+- <img align="left" alt="Terminal" width="26px" src="https://www.itopstimes.com/wp-content/uploads/2019/12/favicon-490x490.png" /> Kubernetes (K8s)
+
+- <img align="left" alt="Terminal" width="26px" src="https://www.clipartmax.com/png/middle/146-1469802_logo-logo-docker.png" /> Docker + Docker Swarm
+
+- <img align="left" alt="Terminal" width="26px" src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" /> GCP
+
+- <img align="left" alt="Terminal" width="26px" src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png" /> Terraform
 
 </details>
 

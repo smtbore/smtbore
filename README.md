@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello visitor, I'm Steve and this is my GitHub profile! 🇬🇧 👋
+![with-coffee](https://img.shields.io/badge/made%20with-%E2%98%95%EF%B8%8F%20coffee-yellow.svg)
 
-<!--
-**smtbore/smtbore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🧑‍
+- 🔨 I’m currently working on a responsive portfolio site for a photographer!
+- 💡 I’m currently learning front-end JavaScript and DevOps technologies! 
+- 🔎 Looking to contribute on an open source project!
+- 📫 Reach out to me on LinkedIn!
+- ⚡ Fun fact about me: Grade 5 violin and I play cricket!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently listening to
+[![Spotify](https://novatorem.smtbore.vercel.app/api/spotify)](https://open.spotify.com/user/steven83stamford)

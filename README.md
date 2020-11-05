@@ -5,7 +5,7 @@
 - 🔨 I’m currently working on a responsive portfolio site for a photographer!
 - 💡 I’m currently learning front-end JavaScript and DevOps technologies! 
 - 🔎 Looking to contribute on an open source project!
-- 📫 Connect with me!  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)]
+- 📫 Connect with me!  [Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)
 - ⚡ Fun fact about me: Grade 5 violin and I play cricket!
 
 ## Tools & Technologies

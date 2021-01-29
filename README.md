@@ -10,7 +10,7 @@
 ## Tools & Technologies
 <details>
 
-  <summary></summary>
+  <summary>(Click to expand)</summary>
 
   <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> Visual Studio Code
 
@@ -42,9 +42,7 @@
 
 ## Noteable Repositories
 <details>
-  <summary></summary>
-
-  **If you wish to learn more details about each repo, they all come with documentation**
+  <summary>(Click to expand)</summary>
 
   #### [smtbore/Discord-SkrubBot](https://github.com/smtbore/Discord-SkrubBot)
   > A discord bot that I built in C# for a small community server I was part of. When this was created, I was very new to programming and helped me to develop my C# skills in the event-driven programming paradigm
